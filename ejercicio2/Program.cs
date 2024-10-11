@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ejercicio2
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
